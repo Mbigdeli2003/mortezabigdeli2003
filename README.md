@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mbigdeli2003
 - 👀 I’m interested in ... Control Engineering and Compueter Science
-- 🌱 I’m currently learning ...Python, SQL, Reinforcement and deep Learning, Machine Learning, componant and stochastic analysis, Data, Big Data, Iot
+- 🌱 I’m currently learning ...Python, SQL, Reinforcement and deep Learning, Machine Learning, componant and stochastic analysis, Data, Big Data,
 - 💞️ I’m looking forward in ... Ph.D Positions on Control Engineering and Computer Science, simulation and implemntation 
 - 📫 How to reach me ... mortezabigdeli68@gmail.com
 
